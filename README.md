@@ -7,7 +7,6 @@
 <!--<p align="center">My strong areas are Programming, Music Production, and Content Creation.</p>-->
 
 ### Skills
-I've passed Computer Science and ICT subjects in both GCSE and A Level. I have experience in coding in the following languages:
 
 | Language | Proficency |
 | -------- | ---------- |
